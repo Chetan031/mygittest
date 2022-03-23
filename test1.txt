@@ -1,1 +1,1 @@
-welcome my first git file to repo
+Hello I'm using git for first time
